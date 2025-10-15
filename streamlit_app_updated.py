@@ -16,7 +16,7 @@ import pandas as pd
 # Add src to path
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
 
-from recognition.text_recognizer import TextRecognizer
+from src.recognition.text_recognizer import TextRecognizer
 
 # Page config
 st.set_page_config(
