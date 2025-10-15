@@ -1,0 +1,102 @@
+{
+  "total_images": 19,
+  "successful": 19,
+  "failed": 0,
+  "results": [
+    {
+      "image": "82ab6b3c-page_3_png.rf.54c41e0a7420cf27a486f653571f1504.jpg",
+      "success": true,
+      "pairs_count": 26
+    },
+    {
+      "image": "4012458-2_Rev_A_pdf_3_png.rf.e9492305fdd5be700643ea95c8a11146.jpg",
+      "success": true,
+      "pairs_count": 0
+    },
+    {
+      "image": "143938-03_Rev_X03-pdf_1_png.rf.150789fae5a32ae0635c12514f01dd12.jpg",
+      "success": true,
+      "pairs_count": 73
+    },
+    {
+      "image": "4014749-11_Rev_01_pdf_1_png.rf.d97dad1c392443e8a7505575f4a25c03.jpg",
+      "success": true,
+      "pairs_count": 0
+    },
+    {
+      "image": "4018542-1_Rev_02-pdf_2_png.rf.dfd837b96a822acf7b2b153565839097.jpg",
+      "success": true,
+      "pairs_count": 22
+    },
+    {
+      "image": "D5437585-1_1_D5437585-1-X02-WING-DEPLOYMENT-STRUT-MODIFIED_BUBBLE_PRINT_pdf_1_png.rf.97f728c54828fb2f1328205581f421d1.jpg",
+      "success": true,
+      "pairs_count": 115
+    },
+    {
+      "image": "4012696-1_Rev_L-pdf_2_png.rf.f65b2d774aff097db7cb990158df75ca.jpg",
+      "success": true,
+      "pairs_count": 15
+    },
+    {
+      "image": "1991975101_Rev_F-pdf_2_png.rf.468abcee2f34a2815521f2a397a76897.jpg",
+      "success": true,
+      "pairs_count": 38
+    },
+    {
+      "image": "4003042_Rev_H-pdf_1_png.rf.7f9364d6c9cc83b9cf9f16090406043b.jpg",
+      "success": true,
+      "pairs_count": 58
+    },
+    {
+      "image": "c5a63453-GDT_pic_2_png.rf.bbb56afadb79397bd53e388d19aac0ce.jpg",
+      "success": true,
+      "pairs_count": 30
+    },
+    {
+      "image": "4012696-1_Rev_L-pdf_3_png.rf.e420e108ae0180f6283c6c63ee6673be.jpg",
+      "success": true,
+      "pairs_count": 15
+    },
+    {
+      "image": "3003089_Rev_D_pdf_1_png.rf.af57241917f5ba804130aa437c41b2f3.jpg",
+      "success": true,
+      "pairs_count": 5
+    },
+    {
+      "image": "4019184-2_Rev_01_pdf_1_png.rf.6481d91171aea9da61add06dd708a4ca.jpg",
+      "success": true,
+      "pairs_count": 3
+    },
+    {
+      "image": "4015389-1_OP_1300_Rev_03_pdf_1_png.rf.754bd00883dbbdb45584149978bf2c93.jpg",
+      "success": true,
+      "pairs_count": 6
+    },
+    {
+      "image": "D5437577-2_1_D5437577-2-X03-STUD-UPPER-WING-PIVOT_BUBBLE_PRINT_pdf_1_png.rf.0c17dbc35dab63d776a165cd038b161b.jpg",
+      "success": true,
+      "pairs_count": 111
+    },
+    {
+      "image": "D5437576-3_1_D5437576-72-X04-WING-STRUT-ANCHOR_BUBBLE_PRINT_pdf_3_png.rf.ec2b82977412cda6ead270e6b443c77b.jpg",
+      "success": true,
+      "pairs_count": 37
+    },
+    {
+      "image": "4018142-1_Rev_02_pdf_1_png.rf.94c33ebe4ea5bb12126b84cff3d56451.jpg",
+      "success": true,
+      "pairs_count": 3
+    },
+    {
+      "image": "9506150-1_Rev_A-pdf_1_png.rf.790c3826ad4e82f7dc0e1915ec8f6683.jpg",
+      "success": true,
+      "pairs_count": 8
+    },
+    {
+      "image": "111407-52_Rev_X01_pdf_1_png.rf.4f16cec62bc74af930e5697cf84250f5.jpg",
+      "success": true,
+      "pairs_count": 119
+    }
+  ]
+}

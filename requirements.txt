@@ -1,0 +1,12 @@
+# requirements.txt
+opencv-python
+numpy
+Pillow
+pyyaml
+pandas
+easyocr
+streamlit
+matplotlib
+shapely
+rich
+

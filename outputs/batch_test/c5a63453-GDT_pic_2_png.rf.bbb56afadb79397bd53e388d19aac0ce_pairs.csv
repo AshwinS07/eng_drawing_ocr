@@ -1,0 +1,31 @@
+Label,Value,Confidence
+GD&T Symbols_Reference_,,0.593
+Symbol,,1.000
+Meaning,,1.000
+Symbol,V,0.872
+Meaning,,1.000
+LMC - Least Material Condition,,0.600
+Dimension Origin,,0.970
+MMC - Maximum Material Condition,,0.779
+Counterbore,,0.939
+Tangent Plane,,0.969
+Countersink,,1.000
+Projected Tolerance Zone,,1.000
+Depth,,0.703
+Free State,,1.000
+AIl Around,,0.681
+Diameter,x,0.527
+Between,,1.000
+Radius,R,1.000
+Target Point,,0.839
+Spherical Radius,SR,0.999
+Conical Taper,,0.810
+Spherical Diameter,Sp,0.660
+Slope,,1.000
+Controlled Radius,CR,1.000
+Square,,1.000
+Statistical Tolerance,,0.966
+(77),5X,0.856
+Reference Dimension,,1.000
+Basic Dimension,,0.913
+Places,,1.000

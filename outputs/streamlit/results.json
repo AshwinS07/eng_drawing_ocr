@@ -1,0 +1,246 @@
+[
+  {
+    "Label": "Wall Thickness",
+    "Value": "2",
+    "Label_BBox": [
+      356,
+      80,
+      194,
+      32
+    ],
+    "Value_BBox": [
+      354,
+      79,
+      66,
+      30
+    ]
+  },
+  {
+    "Label": "Perpendicularity:|",
+    "Value": "10",
+    "Label_BBox": [
+      821,
+      105,
+      218,
+      40
+    ],
+    "Value_BBox": [
+      944,
+      172,
+      34,
+      30
+    ]
+  },
+  {
+    "Label": "A",
+    "Value": "33",
+    "Label_BBox": [
+      1163,
+      113,
+      20,
+      26
+    ],
+    "Value_BBox": [
+      1294,
+      248,
+      36,
+      30
+    ]
+  },
+  {
+    "Label": "Od Chamfer",
+    "Value": "0.Sx45°",
+    "Label_BBox": [
+      322,
+      172,
+      158,
+      32
+    ],
+    "Value_BBox": [
+      494,
+      172,
+      102,
+      32
+    ]
+  },
+  {
+    "Label": "Length",
+    "Value": "",
+    "Label_BBox": [
+      831,
+      171,
+      96,
+      38
+    ],
+    "Value_BBox": null
+  },
+  {
+    "Label": "A",
+    "Value": "",
+    "Label_BBox": [
+      1379,
+      215,
+      18,
+      24
+    ],
+    "Value_BBox": null
+  },
+  {
+    "Label": "CD Length",
+    "Value": "0",
+    "Label_BBox": [
+      823,
+      247,
+      150,
+      38
+    ],
+    "Value_BBox": [
+      1636,
+      259,
+      104,
+      30
+    ]
+  },
+  {
+    "Label": "CD Length",
+    "Value": "46 | 8 | +0.03 | 6 | 2 | 5 | 15x30 | 0.Sx45° | 0.03 | 10 | 33 | 1 | 0.01 | 8 | 86 | 93 | 7 | L.6_ | 0 | 12 (3No's) | 33 | 0 | 0.Sx45° | 5 | 8 | 2 | 40 -0.03 | 8 | 8g | -0.01",
+    "Label_BBox": [
+      1129,
+      247,
+      152,
+      38
+    ],
+    "Value_BBox": [
+      82,
+      79,
+      1836,
+      781
+    ]
+  },
+  {
+    "Label": "Od Chamfer",
+    "Value": "",
+    "Label_BBox": [
+      1464,
+      260,
+      160,
+      32
+    ],
+    "Value_BBox": null
+  },
+  {
+    "Label": "Id Chamfer",
+    "Value": "",
+    "Label_BBox": [
+      1484,
+      363,
+      147,
+      33
+    ],
+    "Value_BBox": null
+  },
+  {
+    "Label": "Id Chamfer",
+    "Value": "0.03",
+    "Label_BBox": [
+      320,
+      398,
+      150,
+      32
+    ],
+    "Value_BBox": [
+      512,
+      806,
+      60,
+      30
+    ]
+  },
+  {
+    "Label": "od",
+    "Value": "",
+    "Label_BBox": [
+      1736,
+      530,
+      42,
+      30
+    ],
+    "Value_BBox": null
+  },
+  {
+    "Label": "Drill Hole",
+    "Value": "",
+    "Label_BBox": [
+      1078,
+      584,
+      132,
+      32
+    ],
+    "Value_BBox": null
+  },
+  {
+    "Label": "Length",
+    "Value": "",
+    "Label_BBox": [
+      983,
+      747,
+      96,
+      38
+    ],
+    "Value_BBox": null
+  },
+  {
+    "Label": "A",
+    "Value": "",
+    "Label_BBox": [
+      589,
+      807,
+      20,
+      26
+    ],
+    "Value_BBox": null
+  },
+  {
+    "Label": "Total Length",
+    "Value": "",
+    "Label_BBox": [
+      949,
+      829,
+      166,
+      38
+    ],
+    "Value_BBox": null
+  },
+  {
+    "Label": "Step",
+    "Value": "",
+    "Label_BBox": [
+      1671,
+      524,
+      71,
+      44
+    ],
+    "Value_BBox": null
+  },
+  {
+    "Label": "Major Dia",
+    "Value": "",
+    "Label_BBox": [
+      79,
+      500,
+      42,
+      138
+    ],
+    "Value_BBox": null
+  },
+  {
+    "Label": "HE",
+    "Value": "",
+    "Label_BBox": [
+      973,
+      740,
+      200,
+      134
+    ],
+    "Value_BBox": null
+  }
+]

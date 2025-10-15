@@ -1,0 +1,25 @@
+Label,Value,Confidence
+"Wall Thickness","",0.740
+"Perpendicularity:|","10",0.906
+"A","0.01",0.993
+"Od Chamfer","",0.874
+"0.Sx45o","",0.767
+"Length","33",1.000
+"A","33",1.000
+"CD Length","",0.717
+"CD Length","",0.903
+"Od Chamfer","",0.866
+"1.Sx309","",0.340
+"L.6_","",0.540
+"Id Chamfer","",0.698
+"0.Sx45o","",0.753
+"Id Chamfer","15x30",0.891
+"ID : $ 32 +0.01","+0.03",0.769
+"od","40 -0.03",0.865
+"Drill Hole","",0.853
+"12 (3No's)","",0.804
+"Length","86",1.000
+"IConcentricity","0.03",0.724
+"A","",0.997
+"Total Length","93",0.787
+"Step","-0.01",0.992

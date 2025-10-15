@@ -1,0 +1,46 @@
+train: dataset/train/images
+val: dataset/valid/images
+test: dataset/test/images
+
+names: 
+  0: 1
+  1: 10
+  2: 2
+  3: 3
+  4: 4
+  5: 5
+  6: 6
+  7: 7
+  8: 8
+  9: 9
+  10: A
+  11: B
+  12: C
+  13: D
+  14: E
+  15: F
+  16: G
+  17: H
+  18: angularity
+  19: between
+  20: circ runout
+  21: concentricity
+  22: counterbore
+  23: countersink
+  24: cylindricity
+  25: depth
+  26: diameter
+  27: flatness
+  28: line
+  29: mat_max
+  30: parallelism
+  31: perpendicularity
+  32: position
+  33: profile
+  34: radius
+  35: runout
+  36: slope
+  37: surface
+  38: tangent
+  39: target
+  40: through

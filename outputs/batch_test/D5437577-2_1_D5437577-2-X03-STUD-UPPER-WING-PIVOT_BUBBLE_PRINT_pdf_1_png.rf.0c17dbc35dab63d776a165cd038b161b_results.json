@@ -1,0 +1,3873 @@
+{
+  "source_image": "dataset/test/images/D5437577-2_1_D5437577-2-X03-STUD-UPPER-WING-PIVOT_BUBBLE_PRINT_pdf_1_png.rf.0c17dbc35dab63d776a165cd038b161b.jpg",
+  "statistics": {
+    "total_text": 118,
+    "labels": 111,
+    "values": 8,
+    "symbols": 0,
+    "pairs": 111
+  },
+  "pairs": [
+    {
+      "label": "CONTRCLLED UNCLASSIFIED INFORMATON",
+      "value": null,
+      "confidence": 0.7268164192743012
+    },
+    {
+      "label": "DwG NO",
+      "value": "2022.10.19",
+      "confidence": 0.6855277924403469
+    },
+    {
+      "label": "D5437577",
+      "value": "2023.07.03",
+      "confidence": 0.9191197283897513
+    },
+    {
+      "label": "NOTES",
+      "value": null,
+      "confidence": 0.9978900207229792
+    },
+    {
+      "label": "UNLESS OTHERWISE SPECIFIED;",
+      "value": null,
+      "confidence": 0.9624672830599708
+    },
+    {
+      "label": "RA YTHEON PROPRIETARY",
+      "value": null,
+      "confidence": 0.9027870181574602
+    },
+    {
+      "label": "REVISION BLOCK",
+      "value": "2024.02.22",
+      "confidence": 0.9919101212192765
+    },
+    {
+      "label": "2 MATFRIAL; 17-4PH STAINI FSS STEFL PER AVS 5643 H925, OR H1C25",
+      "value": "020",
+      "confidence": 0.6664442884625484
+    },
+    {
+      "label": "SHEETS ARETHESAME",
+      "value": null,
+      "confidence": 0.3919877326815485
+    },
+    {
+      "label": "2 FINISH: PASSIVATE PER AMS 270012",
+      "value": null,
+      "confidence": 0.748949807606613
+    },
+    {
+      "label": "REYISION STATUS",
+      "value": null,
+      "confidence": 0.7924472124917543
+    },
+    {
+      "label": "REV IDESCRIPTION",
+      "value": null,
+      "confidence": 0.6940870620539612
+    },
+    {
+      "label": "DATE (YYYY MM DDJ APPROVED BY (XXX)",
+      "value": "BC",
+      "confidence": 0.7779337073461472
+    },
+    {
+      "label": "22 MAXIMUM MATERIAL ROUGHNESS:",
+      "value": null,
+      "confidence": 0.7347085070628826
+    },
+    {
+      "label": "XO1 IPROTOTYPE RELEASE",
+      "value": null,
+      "confidence": 0.6279053664653329
+    },
+    {
+      "label": "ERN",
+      "value": null,
+      "confidence": 0.9999805912298881
+    },
+    {
+      "label": "ALL FEATURES ARE FULLY MOCELED IN THE SOLID MODEL EXCEPT FOR:",
+      "value": null,
+      "confidence": 0.6501191840233977
+    },
+    {
+      "label": "BROKEN EDGES",
+      "value": null,
+      "confidence": 0.9220030332529854
+    },
+    {
+      "label": "xo2 IBLOCK 3 UPDATES, PIN HOLES TO .140",
+      "value": null,
+      "confidence": 0.5643889063741339
+    },
+    {
+      "label": "ALL FEATURES ARE MODELED AT THE MEAN OF THE TOLERANCE RANGE EXCEPT FOR FEATURES WYITH ASYMMETRIC TOLERANCES 5|",
+      "value": null,
+      "confidence": 0.6072137020503661
+    },
+    {
+      "label": "X03 IECR 825",
+      "value": null,
+      "confidence": 0.4037864391234462
+    },
+    {
+      "label": "AJS",
+      "value": null,
+      "confidence": 0.9992501836821652
+    },
+    {
+      "label": "REMQVEALL BURRS AND BREAK SHARP EDGES .05 ,.015, VISUAL INSFECTION ACCEPTABLE",
+      "value": null,
+      "confidence": 0.35509252215454545
+    },
+    {
+      "label": "DMENSIONS NO",
+      "value": null,
+      "confidence": 0.9617344723911951
+    },
+    {
+      "label": "SHOWN ON THE DRAWING SHALLBE CONSIDERED BASIC ATTHE MODELED VALUE OF THE 3D DATA[8]",
+      "value": null,
+      "confidence": 0.5061553552537048
+    },
+    {
+      "label": "SURFACES SHALL HAVE",
+      "value": null,
+      "confidence": 0.6660115651192222
+    },
+    {
+      "label": "TOLERANCE OF:",
+      "value": null,
+      "confidence": 0.6818757386068608
+    },
+    {
+      "label": "BAG ANDIOR TAG PART WITH THE FOLLOWING INFORMATION IAW MIL-STD-130: |10|",
+      "value": null,
+      "confidence": 0.5946215073693445
+    },
+    {
+      "label": "[MFG CAGE CODE]",
+      "value": null,
+      "confidence": 0.6743530383394878
+    },
+    {
+      "label": "[DRAWING NO] [DASH NO] [REV LETTER]",
+      "value": null,
+      "confidence": 0.6759547763859843
+    },
+    {
+      "label": "D5437577-1",
+      "value": null,
+      "confidence": 0.9858617856658041
+    },
+    {
+      "label": "D5437577-2",
+      "value": null,
+      "confidence": 0.943835580007626
+    },
+    {
+      "label": "ISOMETRIC VIEW",
+      "value": null,
+      "confidence": 0.9969311952447185
+    },
+    {
+      "label": "ISOMETRIC VIEW",
+      "value": null,
+      "confidence": 0.995793299542605
+    },
+    {
+      "label": "FOR REFERENCE ONLY",
+      "value": null,
+      "confidence": 0.931240344435252
+    },
+    {
+      "label": "FOR REFERENCE ONLY",
+      "value": null,
+      "confidence": 0.8093087064391835
+    },
+    {
+      "label": "SCALE: NONE",
+      "value": null,
+      "confidence": 0.5758284604291515
+    },
+    {
+      "label": "SCALE: NONE",
+      "value": null,
+      "confidence": 0.9715159666400243
+    },
+    {
+      "label": "ACCESS TO AND DISSEMINATION OF CONTROLIED UNCLASSIFIFD INFORNATIONSHALL BE ALLOWED AS NECESSARY AND",
+      "value": null,
+      "confidence": 0.3080318662291486
+    },
+    {
+      "label": "FRMISS BIETO ANY",
+      "value": null,
+      "confidence": 0.8210786794729877
+    },
+    {
+      "label": "INCIICUAL(S) ORCANIZAT ONISI   CR GROUP NCIS'",
+      "value": null,
+      "confidence": 0.17973314696953457
+    },
+    {
+      "label": "OF USERS, PROVIDEC SUCH ACCESS OR DISSEME",
+      "value": null,
+      "confidence": 0.60772008670072
+    },
+    {
+      "label": "TION",
+      "value": null,
+      "confidence": 0.9989129900932312
+    },
+    {
+      "label": "CONSISTENT WITH OR",
+      "value": null,
+      "confidence": 0.3769326724590585
+    },
+    {
+      "label": "FLRTHEZANCE OF",
+      "value": null,
+      "confidence": 0.565352466241368
+    },
+    {
+      "label": "LAWFUL GOVERNMENT ?URPCSE ANDIN",
+      "value": null,
+      "confidence": 0.6214950151075033
+    },
+    {
+      "label": "MANNE? CONSISTENT WA A PPLICABLE LAw; RECULATIONS; AND COVERNMENT-",
+      "value": null,
+      "confidence": 0.3182009233026643
+    },
+    {
+      "label": "WIDL POLCILS",
+      "value": null,
+      "confidence": 0.824520143380589
+    },
+    {
+      "label": "RAYTHEON PROPRIETARY: THIS DOCUMENT CONTAINS DATA OR INFORMATION ?ROPRIETA? TO RAYTHECNCOMPANT AND ITS SUBCONTRACICRS",
+      "value": null,
+      "confidence": 0.2940317126082731
+    },
+    {
+      "label": "ANC",
+      "value": null,
+      "confidence": 0.9527844914527275
+    },
+    {
+      "label": "RESTRICTED TO USE ONLY Br PERSONS AUTHORIZED BY RAYTHEON COMPANY IN \"?ING TO USE IT. DISCLOSURE TO UNALTHORIZED",
+      "value": null,
+      "confidence": 0.43423791115557137
+    },
+    {
+      "label": "ERSCNS",
+      "value": null,
+      "confidence": 0.7234232960252243
+    },
+    {
+      "label": "WCULD LIKEY CAUSL SUBSTANTIAL COMPETIIVE HARM TO RAYTHECN CCMPANY $ BLISINESS FOSITION. NEIHER SAID DOCUMENT NO?ITS CCNIENTS",
+      "value": null,
+      "confidence": 0.3034946812784042
+    },
+    {
+      "label": "S IAL- BE FURNISHED OR DISCLOSED 100? COPIED OR USED BY PERSONS O ISIDE RAYTHEON COMPANY WITHOUT HE EXPRESS WRIITEN APPROVAL",
+      "value": null,
+      "confidence": 0.2823414024674075
+    },
+    {
+      "label": "OF RAYTHEON COMFANY. THIS PROPRIETARY NOTICE",
+      "value": null,
+      "confidence": 0.4452582880458664
+    },
+    {
+      "label": "NOI APPLCABLE FOR CONTRACTUAL DELIVERIEES TO THE US. GOVERNMENT",
+      "value": null,
+      "confidence": 0.43499768463497174
+    },
+    {
+      "label": "ACCORDANCE WITH DFARS 252.227-7013",
+      "value": null,
+      "confidence": 0.7428777091516572
+    },
+    {
+      "label": "TS DATA \"AS DEVELOPED PURSUANI O CONIRACI NUMBER H0072/",
+      "value": null,
+      "confidence": 0.33042397873674395
+    },
+    {
+      "label": "9 F-161| wilh THE Us GOVERNMENI. IFE U.S. GOVERNMENT $ RIGHTS IN",
+      "value": null,
+      "confidence": 0.2633606601159754
+    },
+    {
+      "label": "AND TC THIS COPYRIGHTED DATA ARE AS SPECIFIED IN DFARS 252.227-701=",
+      "value": null,
+      "confidence": 0.4779304761571735
+    },
+    {
+      "label": "WHICH WAS MADEPART OF THE ABOVE CONTRACL",
+      "value": null,
+      "confidence": 0.5917600330421047
+    },
+    {
+      "label": "EXPORT CCNROLLED: \"ARNING- IHIS DOCUMENT CONTAINS TECHNICAL CAIA ANDIOR TECHNOLOGY WHCSE EXPORT OR DISCLOSURE TO NON-",
+      "value": null,
+      "confidence": 0.2975109831143195
+    },
+    {
+      "label": "US PERSONS; WI EREvER LOCAIED",
+      "value": null,
+      "confidence": 0.47850013765651717
+    },
+    {
+      "label": "RLSIR CIED BY THE INTERNAIIONAL IRAFFIC IN4<MS REGULAIIONS (IIAR",
+      "value": null,
+      "confidence": 0.15352728611008773
+    },
+    {
+      "label": "122 C.RR. SECTICN 120",
+      "value": null,
+      "confidence": 0.32699462020424636
+    },
+    {
+      "label": "30| ORIIE",
+      "value": null,
+      "confidence": 0.3362201056962441
+    },
+    {
+      "label": "EXPORT ADMIN STRATION REGULATIONS (EAR} (15 CFR: SECTION 730-774). TH S DOCUMENT CANNOT BE EXPORTED {EG",
+      "value": null,
+      "confidence": 0.2662900179422007
+    },
+    {
+      "label": "PRCVIDED TO",
+      "value": null,
+      "confidence": 0.921388776018502
+    },
+    {
+      "label": "SUPFLIER",
+      "value": null,
+      "confidence": 0.5938974390819959
+    },
+    {
+      "label": "APPROVALS",
+      "value": "+010",
+      "confidence": 0.7537254589641668
+    },
+    {
+      "label": "INITIALS",
+      "value": null,
+      "confidence": 0.998019676444868
+    },
+    {
+      "label": "DATE",
+      "value": null,
+      "confidence": 0.9985198378562927
+    },
+    {
+      "label": "TOLERANCES",
+      "value": null,
+      "confidence": 0.996307331490085
+    },
+    {
+      "label": "Raytheon",
+      "value": "5090",
+      "confidence": 0.9499367140578463
+    },
+    {
+      "label": "RAYTHECN COMPANY",
+      "value": "X23",
+      "confidence": 0.48006928479746436
+    },
+    {
+      "label": "ANGLES",
+      "value": null,
+      "confidence": 0.99898483678086
+    },
+    {
+      "label": "USON AZ3,736",
+      "value": null,
+      "confidence": 0.11652520849190458
+    },
+    {
+      "label": "OUTSICE OF THE UNTED STATEST",
+      "value": null,
+      "confidence": 0.554222312211745
+    },
+    {
+      "label": "OR CISCLOSED TO 4 NON-U,S, PERSON, WHEREVER LOCATED. UNTIL A FNAL JURISDICTION AND CLASSIFICATICN",
+      "value": null,
+      "confidence": 0.20018167149283042
+    },
+    {
+      "label": "DESIGN",
+      "value": null,
+      "confidence": 0.9577005316001101
+    },
+    {
+      "label": "06/15/2023",
+      "value": null,
+      "confidence": 0.9995782664605228
+    },
+    {
+      "label": "DFTFRMINATCNAAS RFFN COvFI ZTFD AND APPROVFD RY RAYTHFON, AND ANY REQUIRFC U3S, GOVFRNMFNT APPROVAIS HAVF BFEN ORTAINFD,",
+      "value": null,
+      "confidence": 0.14918126480877456
+    },
+    {
+      "label": "DRAWINGMLE:",
+      "value": null,
+      "confidence": 0.33268718290505045
+    },
+    {
+      "label": "vIO_ATIONS ARE SUB_LCT",
+      "value": null,
+      "confidence": 0.46498491674034276
+    },
+    {
+      "label": "S_VERE CKIMINAL PENALTILS",
+      "value": null,
+      "confidence": 0.8244188306849982
+    },
+    {
+      "label": "PEER",
+      "value": null,
+      "confidence": 0.9997592568397522
+    },
+    {
+      "label": "INIEREREI GLOMEIRIC",
+      "value": null,
+      "confidence": 0.59042191116116
+    },
+    {
+      "label": "IOLLRANCING PER",
+      "value": null,
+      "confidence": 0.5560619357795336
+    },
+    {
+      "label": "STUD, UPPER WING PIVOT",
+      "value": null,
+      "confidence": 0.9440929885781152
+    },
+    {
+      "label": "MFG",
+      "value": null,
+      "confidence": 0.9985157189455204
+    },
+    {
+      "label": "ASME",
+      "value": null,
+      "confidence": 0.8682788014411926
+    },
+    {
+      "label": "Yi4.5-2018",
+      "value": null,
+      "confidence": 0.4677041140048407
+    },
+    {
+      "label": "DESTRUCTICN NOTICE: FO? CLASSIFED DOCUMENTS, FOLLO# THE PROCEDURES IN DOD 5220.224, NATONAL INDUSTRIA",
+      "value": null,
+      "confidence": 0.22739874242249125
+    },
+    {
+      "label": "SECURITY PROGRAY",
+      "value": null,
+      "confidence": 0.5714313250635641
+    },
+    {
+      "label": "OPFRATING VANUAI",
+      "value": null,
+      "confidence": 0.6758840331763643
+    },
+    {
+      "label": "NISPOMI: SFCT ON 5-735,ORDOD 3220.1-R, INFORMATION SFCURITY PROGRAM, CHAPTFR VI, FOR UNCI ASSIFIFD. IMIFD",
+      "value": null,
+      "confidence": 0.1969131320703136
+    },
+    {
+      "label": "STRESS",
+      "value": null,
+      "confidence": 0.9797820872292667
+    },
+    {
+      "label": "THIRD ANGLE",
+      "value": null,
+      "confidence": 0.9458367647857027
+    },
+    {
+      "label": "DRAWING NUMBER: D5437577",
+      "value": null,
+      "confidence": 0.7618778504946668
+    },
+    {
+      "label": "REV: X23",
+      "value": null,
+      "confidence": 0.42964293462850794
+    },
+    {
+      "label": "DCCUMENTS, CESTROY BY ANY METHOD",
+      "value": null,
+      "confidence": 0.646473922368063
+    },
+    {
+      "label": "A",
+      "value": null,
+      "confidence": 0.005505586466428236
+    },
+    {
+      "label": "PREVENT DISCLOSURE OF CONTENTS OR RECONSTRUCTION OF THE COCUMENT;",
+      "value": null,
+      "confidence": 0.30750683706662724
+    },
+    {
+      "label": "TECHNICAL",
+      "value": null,
+      "confidence": 0.8968556913739354
+    },
+    {
+      "label": "02/22/2024",
+      "value": null,
+      "confidence": 0.9926438621454581
+    },
+    {
+      "label": "PROJECTION",
+      "value": null,
+      "confidence": 0.9822627284447276
+    },
+    {
+      "label": "CACE CODE:",
+      "value": null,
+      "confidence": 0.9796542276167693
+    },
+    {
+      "label": "SCALE 2I & NOIED",
+      "value": null,
+      "confidence": 0.41308040029002513
+    },
+    {
+      "label": "SHEET",
+      "value": null,
+      "confidence": 0.9941023278676745
+    },
+    {
+      "label": "OF 3",
+      "value": null,
+      "confidence": 0.622962660351399
+    },
+    {
+      "label": "TFAT",
+      "value": null,
+      "confidence": 0.2766965925693512
+    }
+  ],
+  "all_detections": [
+    {
+      "id": 0,
+      "text": "CONTRCLLED UNCLASSIFIED INFORMATON",
+      "type": "label",
+      "confidence": 0.7268164192743012,
+      "bbox": [
+        [
+          23.0,
+          9.0
+        ],
+        [
+          233.0,
+          9.0
+        ],
+        [
+          233.0,
+          25.0
+        ],
+        [
+          23.0,
+          25.0
+        ]
+      ],
+      "center": [
+        128.0,
+        17.0
+      ]
+    },
+    {
+      "id": 1,
+      "text": "DwG NO",
+      "type": "label",
+      "confidence": 0.6381653264063176,
+      "bbox": [
+        [
+          1575.0,
+          7.0
+        ],
+        [
+          1621.0,
+          7.0
+        ],
+        [
+          1621.0,
+          19.0
+        ],
+        [
+          1575.0,
+          19.0
+        ]
+      ],
+      "center": [
+        1598.0,
+        13.0
+      ]
+    },
+    {
+      "id": 2,
+      "text": "D5437577",
+      "type": "label",
+      "confidence": 0.9894962354871348,
+      "bbox": [
+        [
+          1633.0,
+          13.0
+        ],
+        [
+          1697.0,
+          13.0
+        ],
+        [
+          1697.0,
+          29.0
+        ],
+        [
+          1633.0,
+          29.0
+        ]
+      ],
+      "center": [
+        1665.0,
+        21.0
+      ]
+    },
+    {
+      "id": 3,
+      "text": "NOTES",
+      "type": "label",
+      "confidence": 0.9978900207229792,
+      "bbox": [
+        [
+          69.0,
+          33.0
+        ],
+        [
+          109.0,
+          33.0
+        ],
+        [
+          109.0,
+          49.0
+        ],
+        [
+          69.0,
+          49.0
+        ]
+      ],
+      "center": [
+        89.0,
+        41.0
+      ]
+    },
+    {
+      "id": 4,
+      "text": "UNLESS OTHERWISE SPECIFIED;",
+      "type": "label",
+      "confidence": 0.9624672830599708,
+      "bbox": [
+        [
+          117.0,
+          33.0
+        ],
+        [
+          293.0,
+          33.0
+        ],
+        [
+          293.0,
+          49.0
+        ],
+        [
+          117.0,
+          49.0
+        ]
+      ],
+      "center": [
+        205.0,
+        41.0
+      ]
+    },
+    {
+      "id": 5,
+      "text": "RA YTHEON PROPRIETARY",
+      "type": "label",
+      "confidence": 0.9027870181574602,
+      "bbox": [
+        [
+          931.0,
+          31.0
+        ],
+        [
+          1135.0,
+          31.0
+        ],
+        [
+          1135.0,
+          51.0
+        ],
+        [
+          931.0,
+          51.0
+        ]
+      ],
+      "center": [
+        1033.0,
+        41.0
+      ]
+    },
+    {
+      "id": 6,
+      "text": "REVISION BLOCK",
+      "type": "label",
+      "confidence": 0.997495688821039,
+      "bbox": [
+        [
+          1556.0,
+          30.0
+        ],
+        [
+          1724.0,
+          30.0
+        ],
+        [
+          1724.0,
+          54.0
+        ],
+        [
+          1556.0,
+          54.0
+        ]
+      ],
+      "center": [
+        1640.0,
+        42.0
+      ]
+    },
+    {
+      "id": 7,
+      "text": "2 MATFRIAL; 17-4PH STAINI FSS STEFL PER AVS 5643 H925, OR H1C25",
+      "type": "label",
+      "confidence": 0.39638011538244633,
+      "bbox": [
+        [
+          113.0,
+          47.0
+        ],
+        [
+          503.0,
+          47.0
+        ],
+        [
+          503.0,
+          63.0
+        ],
+        [
+          113.0,
+          63.0
+        ]
+      ],
+      "center": [
+        308.0,
+        55.0
+      ]
+    },
+    {
+      "id": 8,
+      "text": "SHEETS ARETHESAME",
+      "type": "label",
+      "confidence": 0.3919877326815485,
+      "bbox": [
+        [
+          989.0,
+          51.0
+        ],
+        [
+          1097.0,
+          51.0
+        ],
+        [
+          1097.0,
+          65.0
+        ],
+        [
+          989.0,
+          65.0
+        ]
+      ],
+      "center": [
+        1043.0,
+        58.0
+      ]
+    },
+    {
+      "id": 9,
+      "text": "2 FINISH: PASSIVATE PER AMS 270012",
+      "type": "label",
+      "confidence": 0.748949807606613,
+      "bbox": [
+        [
+          113.0,
+          63.0
+        ],
+        [
+          325.0,
+          63.0
+        ],
+        [
+          325.0,
+          79.0
+        ],
+        [
+          113.0,
+          79.0
+        ]
+      ],
+      "center": [
+        219.0,
+        71.0
+      ]
+    },
+    {
+      "id": 10,
+      "text": "REYISION STATUS",
+      "type": "label",
+      "confidence": 0.7924472124917543,
+      "bbox": [
+        [
+          991.0,
+          65.0
+        ],
+        [
+          1075.0,
+          65.0
+        ],
+        [
+          1075.0,
+          79.0
+        ],
+        [
+          991.0,
+          79.0
+        ]
+      ],
+      "center": [
+        1033.0,
+        72.0
+      ]
+    },
+    {
+      "id": 11,
+      "text": "REV IDESCRIPTION",
+      "type": "label",
+      "confidence": 0.6940870620539612,
+      "bbox": [
+        [
+          1293.0,
+          63.0
+        ],
+        [
+          1426.0,
+          63.0
+        ],
+        [
+          1426.0,
+          83.0
+        ],
+        [
+          1293.0,
+          83.0
+        ]
+      ],
+      "center": [
+        1359.5,
+        73.0
+      ]
+    },
+    {
+      "id": 12,
+      "text": "DATE (YYYY MM DDJ APPROVED BY (XXX)",
+      "type": "label",
+      "confidence": 0.5559001204900871,
+      "bbox": [
+        [
+          1682.0,
+          62.0
+        ],
+        [
+          1986.0,
+          62.0
+        ],
+        [
+          1986.0,
+          86.0
+        ],
+        [
+          1682.0,
+          86.0
+        ]
+      ],
+      "center": [
+        1834.0,
+        74.0
+      ]
+    },
+    {
+      "id": 13,
+      "text": "22 MAXIMUM MATERIAL ROUGHNESS:",
+      "type": "label",
+      "confidence": 0.7347085070628826,
+      "bbox": [
+        [
+          109.0,
+          95.0
+        ],
+        [
+          323.0,
+          95.0
+        ],
+        [
+          323.0,
+          111.0
+        ],
+        [
+          109.0,
+          111.0
+        ]
+      ],
+      "center": [
+        216.0,
+        103.0
+      ]
+    },
+    {
+      "id": 14,
+      "text": "XO1 IPROTOTYPE RELEASE",
+      "type": "label",
+      "confidence": 0.6279053664653329,
+      "bbox": [
+        [
+          1293.0,
+          95.0
+        ],
+        [
+          1479.0,
+          95.0
+        ],
+        [
+          1479.0,
+          115.0
+        ],
+        [
+          1293.0,
+          115.0
+        ]
+      ],
+      "center": [
+        1386.0,
+        105.0
+      ]
+    },
+    {
+      "id": 15,
+      "text": "2022.10.19",
+      "type": "value",
+      "confidence": 0.7328902584743762,
+      "bbox": [
+        [
+          1683.0,
+          95.0
+        ],
+        [
+          1763.0,
+          95.0
+        ],
+        [
+          1763.0,
+          115.0
+        ],
+        [
+          1683.0,
+          115.0
+        ]
+      ],
+      "center": [
+        1723.0,
+        105.0
+      ]
+    },
+    {
+      "id": 16,
+      "text": "ERN",
+      "type": "label",
+      "confidence": 0.9999805912298881,
+      "bbox": [
+        [
+          1837.0,
+          97.0
+        ],
+        [
+          1869.0,
+          97.0
+        ],
+        [
+          1869.0,
+          115.0
+        ],
+        [
+          1837.0,
+          115.0
+        ]
+      ],
+      "center": [
+        1853.0,
+        106.0
+      ]
+    },
+    {
+      "id": 17,
+      "text": "ALL FEATURES ARE FULLY MOCELED IN THE SOLID MODEL EXCEPT FOR:",
+      "type": "label",
+      "confidence": 0.6501191840233977,
+      "bbox": [
+        [
+          93.0,
+          109.0
+        ],
+        [
+          493.0,
+          109.0
+        ],
+        [
+          493.0,
+          125.0
+        ],
+        [
+          93.0,
+          125.0
+        ]
+      ],
+      "center": [
+        293.0,
+        117.0
+      ]
+    },
+    {
+      "id": 18,
+      "text": "BROKEN EDGES",
+      "type": "label",
+      "confidence": 0.9220030332529854,
+      "bbox": [
+        [
+          115.0,
+          125.0
+        ],
+        [
+          209.0,
+          125.0
+        ],
+        [
+          209.0,
+          141.0
+        ],
+        [
+          115.0,
+          141.0
+        ]
+      ],
+      "center": [
+        162.0,
+        133.0
+      ]
+    },
+    {
+      "id": 19,
+      "text": "xo2 IBLOCK 3 UPDATES, PIN HOLES TO .140",
+      "type": "label",
+      "confidence": 0.5643889063741339,
+      "bbox": [
+        [
+          1291.0,
+          119.0
+        ],
+        [
+          1601.0,
+          119.0
+        ],
+        [
+          1601.0,
+          139.0
+        ],
+        [
+          1291.0,
+          139.0
+        ]
+      ],
+      "center": [
+        1446.0,
+        129.0
+      ]
+    },
+    {
+      "id": 20,
+      "text": "2023.07.03",
+      "type": "value",
+      "confidence": 0.8487432212923678,
+      "bbox": [
+        [
+          1685.0,
+          123.0
+        ],
+        [
+          1763.0,
+          123.0
+        ],
+        [
+          1763.0,
+          139.0
+        ],
+        [
+          1685.0,
+          139.0
+        ]
+      ],
+      "center": [
+        1724.0,
+        131.0
+      ]
+    },
+    {
+      "id": 21,
+      "text": "BC",
+      "type": "value",
+      "confidence": 0.9999672942022072,
+      "bbox": [
+        [
+          1839.0,
+          123.0
+        ],
+        [
+          1861.0,
+          123.0
+        ],
+        [
+          1861.0,
+          139.0
+        ],
+        [
+          1839.0,
+          139.0
+        ]
+      ],
+      "center": [
+        1850.0,
+        131.0
+      ]
+    },
+    {
+      "id": 22,
+      "text": "ALL FEATURES ARE MODELED AT THE MEAN OF THE TOLERANCE RANGE EXCEPT FOR FEATURES WYITH ASYMMETRIC TOLERANCES 5|",
+      "type": "label",
+      "confidence": 0.6072137020503661,
+      "bbox": [
+        [
+          93.0,
+          137.0
+        ],
+        [
+          833.0,
+          137.0
+        ],
+        [
+          833.0,
+          155.0
+        ],
+        [
+          93.0,
+          155.0
+        ]
+      ],
+      "center": [
+        463.0,
+        146.0
+      ]
+    },
+    {
+      "id": 23,
+      "text": "X03 IECR 825",
+      "type": "label",
+      "confidence": 0.4037864391234462,
+      "bbox": [
+        [
+          1291.0,
+          145.0
+        ],
+        [
+          1391.0,
+          145.0
+        ],
+        [
+          1391.0,
+          165.0
+        ],
+        [
+          1291.0,
+          165.0
+        ]
+      ],
+      "center": [
+        1341.0,
+        155.0
+      ]
+    },
+    {
+      "id": 24,
+      "text": "2024.02.22",
+      "type": "value",
+      "confidence": 0.9863245536175139,
+      "bbox": [
+        [
+          1683.0,
+          145.0
+        ],
+        [
+          1763.0,
+          145.0
+        ],
+        [
+          1763.0,
+          163.0
+        ],
+        [
+          1683.0,
+          163.0
+        ]
+      ],
+      "center": [
+        1723.0,
+        154.0
+      ]
+    },
+    {
+      "id": 25,
+      "text": "AJS",
+      "type": "label",
+      "confidence": 0.9992501836821652,
+      "bbox": [
+        [
+          1839.0,
+          147.0
+        ],
+        [
+          1867.0,
+          147.0
+        ],
+        [
+          1867.0,
+          163.0
+        ],
+        [
+          1839.0,
+          163.0
+        ]
+      ],
+      "center": [
+        1853.0,
+        155.0
+      ]
+    },
+    {
+      "id": 26,
+      "text": "REMQVEALL BURRS AND BREAK SHARP EDGES .05 ,.015, VISUAL INSFECTION ACCEPTABLE",
+      "type": "label",
+      "confidence": 0.35509252215454545,
+      "bbox": [
+        [
+          93.0,
+          155.0
+        ],
+        [
+          613.0,
+          155.0
+        ],
+        [
+          613.0,
+          171.0
+        ],
+        [
+          93.0,
+          171.0
+        ]
+      ],
+      "center": [
+        353.0,
+        163.0
+      ]
+    },
+    {
+      "id": 27,
+      "text": "DMENSIONS NO",
+      "type": "label",
+      "confidence": 0.9617344723911951,
+      "bbox": [
+        [
+          93.0,
+          169.0
+        ],
+        [
+          191.0,
+          169.0
+        ],
+        [
+          191.0,
+          185.0
+        ],
+        [
+          93.0,
+          185.0
+        ]
+      ],
+      "center": [
+        142.0,
+        177.0
+      ]
+    },
+    {
+      "id": 28,
+      "text": "SHOWN ON THE DRAWING SHALLBE CONSIDERED BASIC ATTHE MODELED VALUE OF THE 3D DATA[8]",
+      "type": "label",
+      "confidence": 0.5061553552537048,
+      "bbox": [
+        [
+          195.0,
+          169.0
+        ],
+        [
+          777.0,
+          169.0
+        ],
+        [
+          777.0,
+          189.0
+        ],
+        [
+          195.0,
+          189.0
+        ]
+      ],
+      "center": [
+        486.0,
+        179.0
+      ]
+    },
+    {
+      "id": 29,
+      "text": "SURFACES SHALL HAVE",
+      "type": "label",
+      "confidence": 0.6660115651192222,
+      "bbox": [
+        [
+          91.0,
+          187.0
+        ],
+        [
+          227.0,
+          187.0
+        ],
+        [
+          227.0,
+          203.0
+        ],
+        [
+          91.0,
+          203.0
+        ]
+      ],
+      "center": [
+        159.0,
+        195.0
+      ]
+    },
+    {
+      "id": 30,
+      "text": "TOLERANCE OF:",
+      "type": "label",
+      "confidence": 0.6818757386068608,
+      "bbox": [
+        [
+          239.0,
+          187.0
+        ],
+        [
+          335.0,
+          187.0
+        ],
+        [
+          335.0,
+          201.0
+        ],
+        [
+          239.0,
+          201.0
+        ]
+      ],
+      "center": [
+        287.0,
+        194.0
+      ]
+    },
+    {
+      "id": 31,
+      "text": "020",
+      "type": "value",
+      "confidence": 0.9365084615426505,
+      "bbox": [
+        [
+          373.0,
+          187.0
+        ],
+        [
+          399.0,
+          187.0
+        ],
+        [
+          399.0,
+          201.0
+        ],
+        [
+          373.0,
+          201.0
+        ]
+      ],
+      "center": [
+        386.0,
+        194.0
+      ]
+    },
+    {
+      "id": 32,
+      "text": "BAG ANDIOR TAG PART WITH THE FOLLOWING INFORMATION IAW MIL-STD-130: |10|",
+      "type": "label",
+      "confidence": 0.5946215073693445,
+      "bbox": [
+        [
+          93.0,
+          203.0
+        ],
+        [
+          577.0,
+          203.0
+        ],
+        [
+          577.0,
+          221.0
+        ],
+        [
+          93.0,
+          221.0
+        ]
+      ],
+      "center": [
+        335.0,
+        212.0
+      ]
+    },
+    {
+      "id": 33,
+      "text": "[MFG CAGE CODE]",
+      "type": "label",
+      "confidence": 0.6743530383394878,
+      "bbox": [
+        [
+          117.0,
+          219.0
+        ],
+        [
+          233.0,
+          219.0
+        ],
+        [
+          233.0,
+          235.0
+        ],
+        [
+          117.0,
+          235.0
+        ]
+      ],
+      "center": [
+        175.0,
+        227.0
+      ]
+    },
+    {
+      "id": 34,
+      "text": "[DRAWING NO] [DASH NO] [REV LETTER]",
+      "type": "label",
+      "confidence": 0.6759547763859843,
+      "bbox": [
+        [
+          242.0,
+          217.0
+        ],
+        [
+          473.0,
+          217.0
+        ],
+        [
+          473.0,
+          237.0
+        ],
+        [
+          242.0,
+          237.0
+        ]
+      ],
+      "center": [
+        357.5,
+        227.0
+      ]
+    },
+    {
+      "id": 35,
+      "text": "D5437577-1",
+      "type": "label",
+      "confidence": 0.9858617856658041,
+      "bbox": [
+        [
+          920.0,
+          764.0
+        ],
+        [
+          1052.0,
+          764.0
+        ],
+        [
+          1052.0,
+          790.0
+        ],
+        [
+          920.0,
+          790.0
+        ]
+      ],
+      "center": [
+        986.0,
+        777.0
+      ]
+    },
+    {
+      "id": 36,
+      "text": "D5437577-2",
+      "type": "label",
+      "confidence": 0.943835580007626,
+      "bbox": [
+        [
+          1476.0,
+          770.0
+        ],
+        [
+          1610.0,
+          770.0
+        ],
+        [
+          1610.0,
+          796.0
+        ],
+        [
+          1476.0,
+          796.0
+        ]
+      ],
+      "center": [
+        1543.0,
+        783.0
+      ]
+    },
+    {
+      "id": 37,
+      "text": "ISOMETRIC VIEW",
+      "type": "label",
+      "confidence": 0.9969311952447185,
+      "bbox": [
+        [
+          889.0,
+          785.0
+        ],
+        [
+          1080.0,
+          785.0
+        ],
+        [
+          1080.0,
+          815.0
+        ],
+        [
+          889.0,
+          815.0
+        ]
+      ],
+      "center": [
+        984.5,
+        800.0
+      ]
+    },
+    {
+      "id": 38,
+      "text": "ISOMETRIC VIEW",
+      "type": "label",
+      "confidence": 0.995793299542605,
+      "bbox": [
+        [
+          1446.0,
+          792.0
+        ],
+        [
+          1634.0,
+          792.0
+        ],
+        [
+          1634.0,
+          820.0
+        ],
+        [
+          1446.0,
+          820.0
+        ]
+      ],
+      "center": [
+        1540.0,
+        806.0
+      ]
+    },
+    {
+      "id": 39,
+      "text": "FOR REFERENCE ONLY",
+      "type": "label",
+      "confidence": 0.931240344435252,
+      "bbox": [
+        [
+          895.0,
+          811.0
+        ],
+        [
+          1077.0,
+          811.0
+        ],
+        [
+          1077.0,
+          831.0
+        ],
+        [
+          895.0,
+          831.0
+        ]
+      ],
+      "center": [
+        986.0,
+        821.0
+      ]
+    },
+    {
+      "id": 40,
+      "text": "FOR REFERENCE ONLY",
+      "type": "label",
+      "confidence": 0.8093087064391835,
+      "bbox": [
+        [
+          1451.0,
+          817.0
+        ],
+        [
+          1633.0,
+          817.0
+        ],
+        [
+          1633.0,
+          837.0
+        ],
+        [
+          1451.0,
+          837.0
+        ]
+      ],
+      "center": [
+        1542.0,
+        827.0
+      ]
+    },
+    {
+      "id": 41,
+      "text": "SCALE: NONE",
+      "type": "label",
+      "confidence": 0.5758284604291515,
+      "bbox": [
+        [
+          929.0,
+          827.0
+        ],
+        [
+          1043.0,
+          827.0
+        ],
+        [
+          1043.0,
+          847.0
+        ],
+        [
+          929.0,
+          847.0
+        ]
+      ],
+      "center": [
+        986.0,
+        837.0
+      ]
+    },
+    {
+      "id": 42,
+      "text": "SCALE: NONE",
+      "type": "label",
+      "confidence": 0.9715159666400243,
+      "bbox": [
+        [
+          1485.0,
+          835.0
+        ],
+        [
+          1599.0,
+          835.0
+        ],
+        [
+          1599.0,
+          855.0
+        ],
+        [
+          1485.0,
+          855.0
+        ]
+      ],
+      "center": [
+        1542.0,
+        845.0
+      ]
+    },
+    {
+      "id": 43,
+      "text": "ACCESS TO AND DISSEMINATION OF CONTROLIED UNCLASSIFIFD INFORNATIONSHALL BE ALLOWED AS NECESSARY AND",
+      "type": "label",
+      "confidence": 0.3080318662291486,
+      "bbox": [
+        [
+          73.0,
+          921.0
+        ],
+        [
+          655.0,
+          921.0
+        ],
+        [
+          655.0,
+          937.0
+        ],
+        [
+          73.0,
+          937.0
+        ]
+      ],
+      "center": [
+        364.0,
+        929.0
+      ]
+    },
+    {
+      "id": 44,
+      "text": "FRMISS BIETO ANY",
+      "type": "label",
+      "confidence": 0.8210786794729877,
+      "bbox": [
+        [
+          661.0,
+          921.0
+        ],
+        [
+          755.0,
+          921.0
+        ],
+        [
+          755.0,
+          937.0
+        ],
+        [
+          661.0,
+          937.0
+        ]
+      ],
+      "center": [
+        708.0,
+        929.0
+      ]
+    },
+    {
+      "id": 45,
+      "text": "INCIICUAL(S) ORCANIZAT ONISI   CR GROUP NCIS'",
+      "type": "label",
+      "confidence": 0.17973314696953457,
+      "bbox": [
+        [
+          73.0,
+          937.0
+        ],
+        [
+          325.0,
+          937.0
+        ],
+        [
+          325.0,
+          953.0
+        ],
+        [
+          73.0,
+          953.0
+        ]
+      ],
+      "center": [
+        199.0,
+        945.0
+      ]
+    },
+    {
+      "id": 46,
+      "text": "OF USERS, PROVIDEC SUCH ACCESS OR DISSEME",
+      "type": "label",
+      "confidence": 0.60772008670072,
+      "bbox": [
+        [
+          329.0,
+          937.0
+        ],
+        [
+          557.0,
+          937.0
+        ],
+        [
+          557.0,
+          953.0
+        ],
+        [
+          329.0,
+          953.0
+        ]
+      ],
+      "center": [
+        443.0,
+        945.0
+      ]
+    },
+    {
+      "id": 47,
+      "text": "TION",
+      "type": "label",
+      "confidence": 0.9989129900932312,
+      "bbox": [
+        [
+          571.0,
+          937.0
+        ],
+        [
+          599.0,
+          937.0
+        ],
+        [
+          599.0,
+          951.0
+        ],
+        [
+          571.0,
+          951.0
+        ]
+      ],
+      "center": [
+        585.0,
+        944.0
+      ]
+    },
+    {
+      "id": 48,
+      "text": "CONSISTENT WITH OR",
+      "type": "label",
+      "confidence": 0.3769326724590585,
+      "bbox": [
+        [
+          607.0,
+          937.0
+        ],
+        [
+          711.0,
+          937.0
+        ],
+        [
+          711.0,
+          951.0
+        ],
+        [
+          607.0,
+          951.0
+        ]
+      ],
+      "center": [
+        659.0,
+        944.0
+      ]
+    },
+    {
+      "id": 49,
+      "text": "FLRTHEZANCE OF",
+      "type": "label",
+      "confidence": 0.565352466241368,
+      "bbox": [
+        [
+          73.0,
+          953.0
+        ],
+        [
+          163.0,
+          953.0
+        ],
+        [
+          163.0,
+          967.0
+        ],
+        [
+          73.0,
+          967.0
+        ]
+      ],
+      "center": [
+        118.0,
+        960.0
+      ]
+    },
+    {
+      "id": 50,
+      "text": "LAWFUL GOVERNMENT ?URPCSE ANDIN",
+      "type": "label",
+      "confidence": 0.6214950151075033,
+      "bbox": [
+        [
+          171.0,
+          953.0
+        ],
+        [
+          369.0,
+          953.0
+        ],
+        [
+          369.0,
+          965.0
+        ],
+        [
+          171.0,
+          965.0
+        ]
+      ],
+      "center": [
+        270.0,
+        959.0
+      ]
+    },
+    {
+      "id": 51,
+      "text": "MANNE? CONSISTENT WA A PPLICABLE LAw; RECULATIONS; AND COVERNMENT-",
+      "type": "label",
+      "confidence": 0.3182009233026643,
+      "bbox": [
+        [
+          379.0,
+          953.0
+        ],
+        [
+          773.0,
+          953.0
+        ],
+        [
+          773.0,
+          965.0
+        ],
+        [
+          379.0,
+          965.0
+        ]
+      ],
+      "center": [
+        576.0,
+        959.0
+      ]
+    },
+    {
+      "id": 52,
+      "text": "WIDL POLCILS",
+      "type": "label",
+      "confidence": 0.824520143380589,
+      "bbox": [
+        [
+          73.0,
+          967.0
+        ],
+        [
+          147.0,
+          967.0
+        ],
+        [
+          147.0,
+          981.0
+        ],
+        [
+          73.0,
+          981.0
+        ]
+      ],
+      "center": [
+        110.0,
+        974.0
+      ]
+    },
+    {
+      "id": 53,
+      "text": "RAYTHEON PROPRIETARY: THIS DOCUMENT CONTAINS DATA OR INFORMATION ?ROPRIETA? TO RAYTHECNCOMPANT AND ITS SUBCONTRACICRS",
+      "type": "label",
+      "confidence": 0.2940317126082731,
+      "bbox": [
+        [
+          73.0,
+          997.0
+        ],
+        [
+          781.0,
+          997.0
+        ],
+        [
+          781.0,
+          1009.0
+        ],
+        [
+          73.0,
+          1009.0
+        ]
+      ],
+      "center": [
+        427.0,
+        1003.0
+      ]
+    },
+    {
+      "id": 54,
+      "text": "ANC",
+      "type": "label",
+      "confidence": 0.9527844914527275,
+      "bbox": [
+        [
+          73.0,
+          1011.0
+        ],
+        [
+          99.0,
+          1011.0
+        ],
+        [
+          99.0,
+          1025.0
+        ],
+        [
+          73.0,
+          1025.0
+        ]
+      ],
+      "center": [
+        86.0,
+        1018.0
+      ]
+    },
+    {
+      "id": 55,
+      "text": "RESTRICTED TO USE ONLY Br PERSONS AUTHORIZED BY RAYTHEON COMPANY IN \"?ING TO USE IT. DISCLOSURE TO UNALTHORIZED",
+      "type": "label",
+      "confidence": 0.43423791115557137,
+      "bbox": [
+        [
+          109.0,
+          1011.0
+        ],
+        [
+          739.0,
+          1011.0
+        ],
+        [
+          739.0,
+          1025.0
+        ],
+        [
+          109.0,
+          1025.0
+        ]
+      ],
+      "center": [
+        424.0,
+        1018.0
+      ]
+    },
+    {
+      "id": 56,
+      "text": "ERSCNS",
+      "type": "label",
+      "confidence": 0.7234232960252243,
+      "bbox": [
+        [
+          743.0,
+          1011.0
+        ],
+        [
+          785.0,
+          1011.0
+        ],
+        [
+          785.0,
+          1025.0
+        ],
+        [
+          743.0,
+          1025.0
+        ]
+      ],
+      "center": [
+        764.0,
+        1018.0
+      ]
+    },
+    {
+      "id": 57,
+      "text": "WCULD LIKEY CAUSL SUBSTANTIAL COMPETIIVE HARM TO RAYTHECN CCMPANY $ BLISINESS FOSITION. NEIHER SAID DOCUMENT NO?ITS CCNIENTS",
+      "type": "label",
+      "confidence": 0.3034946812784042,
+      "bbox": [
+        [
+          73.0,
+          1025.0
+        ],
+        [
+          789.0,
+          1025.0
+        ],
+        [
+          789.0,
+          1039.0
+        ],
+        [
+          73.0,
+          1039.0
+        ]
+      ],
+      "center": [
+        431.0,
+        1032.0
+      ]
+    },
+    {
+      "id": 58,
+      "text": "S IAL- BE FURNISHED OR DISCLOSED 100? COPIED OR USED BY PERSONS O ISIDE RAYTHEON COMPANY WITHOUT HE EXPRESS WRIITEN APPROVAL",
+      "type": "label",
+      "confidence": 0.2823414024674075,
+      "bbox": [
+        [
+          73.0,
+          1041.0
+        ],
+        [
+          787.0,
+          1041.0
+        ],
+        [
+          787.0,
+          1055.0
+        ],
+        [
+          73.0,
+          1055.0
+        ]
+      ],
+      "center": [
+        430.0,
+        1048.0
+      ]
+    },
+    {
+      "id": 59,
+      "text": "OF RAYTHEON COMFANY. THIS PROPRIETARY NOTICE",
+      "type": "label",
+      "confidence": 0.4452582880458664,
+      "bbox": [
+        [
+          73.0,
+          1055.0
+        ],
+        [
+          333.0,
+          1055.0
+        ],
+        [
+          333.0,
+          1071.0
+        ],
+        [
+          73.0,
+          1071.0
+        ]
+      ],
+      "center": [
+        203.0,
+        1063.0
+      ]
+    },
+    {
+      "id": 60,
+      "text": "NOI APPLCABLE FOR CONTRACTUAL DELIVERIEES TO THE US. GOVERNMENT",
+      "type": "label",
+      "confidence": 0.43499768463497174,
+      "bbox": [
+        [
+          341.0,
+          1055.0
+        ],
+        [
+          705.0,
+          1055.0
+        ],
+        [
+          705.0,
+          1069.0
+        ],
+        [
+          341.0,
+          1069.0
+        ]
+      ],
+      "center": [
+        523.0,
+        1062.0
+      ]
+    },
+    {
+      "id": 61,
+      "text": "ACCORDANCE WITH DFARS 252.227-7013",
+      "type": "label",
+      "confidence": 0.7428777091516572,
+      "bbox": [
+        [
+          73.0,
+          1069.0
+        ],
+        [
+          277.0,
+          1069.0
+        ],
+        [
+          277.0,
+          1083.0
+        ],
+        [
+          73.0,
+          1083.0
+        ]
+      ],
+      "center": [
+        175.0,
+        1076.0
+      ]
+    },
+    {
+      "id": 62,
+      "text": "TS DATA \"AS DEVELOPED PURSUANI O CONIRACI NUMBER H0072/",
+      "type": "label",
+      "confidence": 0.33042397873674395,
+      "bbox": [
+        [
+          71.0,
+          1099.0
+        ],
+        [
+          419.0,
+          1099.0
+        ],
+        [
+          419.0,
+          1113.0
+        ],
+        [
+          71.0,
+          1113.0
+        ]
+      ],
+      "center": [
+        245.0,
+        1106.0
+      ]
+    },
+    {
+      "id": 63,
+      "text": "9 F-161| wilh THE Us GOVERNMENI. IFE U.S. GOVERNMENT $ RIGHTS IN",
+      "type": "label",
+      "confidence": 0.2633606601159754,
+      "bbox": [
+        [
+          423.0,
+          1099.0
+        ],
+        [
+          777.0,
+          1099.0
+        ],
+        [
+          777.0,
+          1113.0
+        ],
+        [
+          423.0,
+          1113.0
+        ]
+      ],
+      "center": [
+        600.0,
+        1106.0
+      ]
+    },
+    {
+      "id": 64,
+      "text": "AND TC THIS COPYRIGHTED DATA ARE AS SPECIFIED IN DFARS 252.227-701=",
+      "type": "label",
+      "confidence": 0.4779304761571735,
+      "bbox": [
+        [
+          73.0,
+          1115.0
+        ],
+        [
+          429.0,
+          1115.0
+        ],
+        [
+          429.0,
+          1129.0
+        ],
+        [
+          73.0,
+          1129.0
+        ]
+      ],
+      "center": [
+        251.0,
+        1122.0
+      ]
+    },
+    {
+      "id": 65,
+      "text": "WHICH WAS MADEPART OF THE ABOVE CONTRACL",
+      "type": "label",
+      "confidence": 0.5917600330421047,
+      "bbox": [
+        [
+          435.0,
+          1115.0
+        ],
+        [
+          689.0,
+          1115.0
+        ],
+        [
+          689.0,
+          1129.0
+        ],
+        [
+          435.0,
+          1129.0
+        ]
+      ],
+      "center": [
+        562.0,
+        1122.0
+      ]
+    },
+    {
+      "id": 66,
+      "text": "EXPORT CCNROLLED: \"ARNING- IHIS DOCUMENT CONTAINS TECHNICAL CAIA ANDIOR TECHNOLOGY WHCSE EXPORT OR DISCLOSURE TO NON-",
+      "type": "label",
+      "confidence": 0.2975109831143195,
+      "bbox": [
+        [
+          73.0,
+          1143.0
+        ],
+        [
+          781.0,
+          1143.0
+        ],
+        [
+          781.0,
+          1157.0
+        ],
+        [
+          73.0,
+          1157.0
+        ]
+      ],
+      "center": [
+        427.0,
+        1150.0
+      ]
+    },
+    {
+      "id": 67,
+      "text": "US PERSONS; WI EREvER LOCAIED",
+      "type": "label",
+      "confidence": 0.47850013765651717,
+      "bbox": [
+        [
+          73.0,
+          1159.0
+        ],
+        [
+          247.0,
+          1159.0
+        ],
+        [
+          247.0,
+          1173.0
+        ],
+        [
+          73.0,
+          1173.0
+        ]
+      ],
+      "center": [
+        160.0,
+        1166.0
+      ]
+    },
+    {
+      "id": 68,
+      "text": "RLSIR CIED BY THE INTERNAIIONAL IRAFFIC IN4<MS REGULAIIONS (IIAR",
+      "type": "label",
+      "confidence": 0.15352728611008773,
+      "bbox": [
+        [
+          259.0,
+          1159.0
+        ],
+        [
+          609.0,
+          1159.0
+        ],
+        [
+          609.0,
+          1173.0
+        ],
+        [
+          259.0,
+          1173.0
+        ]
+      ],
+      "center": [
+        434.0,
+        1166.0
+      ]
+    },
+    {
+      "id": 69,
+      "text": "122 C.RR. SECTICN 120",
+      "type": "label",
+      "confidence": 0.32699462020424636,
+      "bbox": [
+        [
+          613.0,
+          1159.0
+        ],
+        [
+          723.0,
+          1159.0
+        ],
+        [
+          723.0,
+          1173.0
+        ],
+        [
+          613.0,
+          1173.0
+        ]
+      ],
+      "center": [
+        668.0,
+        1166.0
+      ]
+    },
+    {
+      "id": 70,
+      "text": "30| ORIIE",
+      "type": "label",
+      "confidence": 0.3362201056962441,
+      "bbox": [
+        [
+          729.0,
+          1159.0
+        ],
+        [
+          785.0,
+          1159.0
+        ],
+        [
+          785.0,
+          1173.0
+        ],
+        [
+          729.0,
+          1173.0
+        ]
+      ],
+      "center": [
+        757.0,
+        1166.0
+      ]
+    },
+    {
+      "id": 71,
+      "text": "EXPORT ADMIN STRATION REGULATIONS (EAR} (15 CFR: SECTION 730-774). TH S DOCUMENT CANNOT BE EXPORTED {EG",
+      "type": "label",
+      "confidence": 0.2662900179422007,
+      "bbox": [
+        [
+          73.0,
+          1171.0
+        ],
+        [
+          651.0,
+          1171.0
+        ],
+        [
+          651.0,
+          1189.0
+        ],
+        [
+          73.0,
+          1189.0
+        ]
+      ],
+      "center": [
+        362.0,
+        1180.0
+      ]
+    },
+    {
+      "id": 72,
+      "text": "PRCVIDED TO",
+      "type": "label",
+      "confidence": 0.921388776018502,
+      "bbox": [
+        [
+          655.0,
+          1173.0
+        ],
+        [
+          727.0,
+          1173.0
+        ],
+        [
+          727.0,
+          1187.0
+        ],
+        [
+          655.0,
+          1187.0
+        ]
+      ],
+      "center": [
+        691.0,
+        1180.0
+      ]
+    },
+    {
+      "id": 73,
+      "text": "SUPFLIER",
+      "type": "label",
+      "confidence": 0.5938974390819959,
+      "bbox": [
+        [
+          735.0,
+          1173.0
+        ],
+        [
+          781.0,
+          1173.0
+        ],
+        [
+          781.0,
+          1187.0
+        ],
+        [
+          735.0,
+          1187.0
+        ]
+      ],
+      "center": [
+        758.0,
+        1180.0
+      ]
+    },
+    {
+      "id": 74,
+      "text": "APPROVALS",
+      "type": "label",
+      "confidence": 0.9983559047867014,
+      "bbox": [
+        [
+          1121.0,
+          1165.0
+        ],
+        [
+          1201.0,
+          1165.0
+        ],
+        [
+          1201.0,
+          1181.0
+        ],
+        [
+          1121.0,
+          1181.0
+        ]
+      ],
+      "center": [
+        1161.0,
+        1173.0
+      ]
+    },
+    {
+      "id": 75,
+      "text": "INITIALS",
+      "type": "label",
+      "confidence": 0.998019676444868,
+      "bbox": [
+        [
+          1231.0,
+          1165.0
+        ],
+        [
+          1283.0,
+          1165.0
+        ],
+        [
+          1283.0,
+          1181.0
+        ],
+        [
+          1231.0,
+          1181.0
+        ]
+      ],
+      "center": [
+        1257.0,
+        1173.0
+      ]
+    },
+    {
+      "id": 76,
+      "text": "DATE",
+      "type": "label",
+      "confidence": 0.9985198378562927,
+      "bbox": [
+        [
+          1339.0,
+          1167.0
+        ],
+        [
+          1375.0,
+          1167.0
+        ],
+        [
+          1375.0,
+          1181.0
+        ],
+        [
+          1339.0,
+          1181.0
+        ]
+      ],
+      "center": [
+        1357.0,
+        1174.0
+      ]
+    },
+    {
+      "id": 77,
+      "text": "TOLERANCES",
+      "type": "label",
+      "confidence": 0.996307331490085,
+      "bbox": [
+        [
+          1463.0,
+          1165.0
+        ],
+        [
+          1549.0,
+          1165.0
+        ],
+        [
+          1549.0,
+          1181.0
+        ],
+        [
+          1463.0,
+          1181.0
+        ]
+      ],
+      "center": [
+        1506.0,
+        1173.0
+      ]
+    },
+    {
+      "id": 78,
+      "text": "Raytheon",
+      "type": "label",
+      "confidence": 0.9444543645475773,
+      "bbox": [
+        [
+          1599.0,
+          1160.0
+        ],
+        [
+          1782.0,
+          1160.0
+        ],
+        [
+          1782.0,
+          1209.0
+        ],
+        [
+          1599.0,
+          1209.0
+        ]
+      ],
+      "center": [
+        1690.5,
+        1184.5
+      ]
+    },
+    {
+      "id": 79,
+      "text": "RAYTHECN COMPANY",
+      "type": "label",
+      "confidence": 0.5304956349664208,
+      "bbox": [
+        [
+          1855.0,
+          1169.0
+        ],
+        [
+          1967.0,
+          1169.0
+        ],
+        [
+          1967.0,
+          1183.0
+        ],
+        [
+          1855.0,
+          1183.0
+        ]
+      ],
+      "center": [
+        1911.0,
+        1176.0
+      ]
+    },
+    {
+      "id": 80,
+      "text": "ANGLES",
+      "type": "label",
+      "confidence": 0.99898483678086,
+      "bbox": [
+        [
+          1549.0,
+          1179.0
+        ],
+        [
+          1597.0,
+          1179.0
+        ],
+        [
+          1597.0,
+          1195.0
+        ],
+        [
+          1549.0,
+          1195.0
+        ]
+      ],
+      "center": [
+        1573.0,
+        1187.0
+      ]
+    },
+    {
+      "id": 81,
+      "text": "USON AZ3,736",
+      "type": "label",
+      "confidence": 0.11652520849190458,
+      "bbox": [
+        [
+          1869.0,
+          1179.0
+        ],
+        [
+          1957.0,
+          1179.0
+        ],
+        [
+          1957.0,
+          1193.0
+        ],
+        [
+          1869.0,
+          1193.0
+        ]
+      ],
+      "center": [
+        1913.0,
+        1186.0
+      ]
+    },
+    {
+      "id": 82,
+      "text": "OUTSICE OF THE UNTED STATEST",
+      "type": "label",
+      "confidence": 0.554222312211745,
+      "bbox": [
+        [
+          73.0,
+          1189.0
+        ],
+        [
+          223.0,
+          1189.0
+        ],
+        [
+          223.0,
+          1203.0
+        ],
+        [
+          73.0,
+          1203.0
+        ]
+      ],
+      "center": [
+        148.0,
+        1196.0
+      ]
+    },
+    {
+      "id": 83,
+      "text": "OR CISCLOSED TO 4 NON-U,S, PERSON, WHEREVER LOCATED. UNTIL A FNAL JURISDICTION AND CLASSIFICATICN",
+      "type": "label",
+      "confidence": 0.20018167149283042,
+      "bbox": [
+        [
+          227.0,
+          1189.0
+        ],
+        [
+          767.0,
+          1189.0
+        ],
+        [
+          767.0,
+          1203.0
+        ],
+        [
+          227.0,
+          1203.0
+        ]
+      ],
+      "center": [
+        497.0,
+        1196.0
+      ]
+    },
+    {
+      "id": 84,
+      "text": "DESIGN",
+      "type": "label",
+      "confidence": 0.9577005316001101,
+      "bbox": [
+        [
+          1135.0,
+          1187.0
+        ],
+        [
+          1187.0,
+          1187.0
+        ],
+        [
+          1187.0,
+          1203.0
+        ],
+        [
+          1135.0,
+          1203.0
+        ]
+      ],
+      "center": [
+        1161.0,
+        1195.0
+      ]
+    },
+    {
+      "id": 85,
+      "text": "06/15/2023",
+      "type": "label",
+      "confidence": 0.9995782664605228,
+      "bbox": [
+        [
+          1317.0,
+          1187.0
+        ],
+        [
+          1393.0,
+          1187.0
+        ],
+        [
+          1393.0,
+          1203.0
+        ],
+        [
+          1317.0,
+          1203.0
+        ]
+      ],
+      "center": [
+        1355.0,
+        1195.0
+      ]
+    },
+    {
+      "id": 86,
+      "text": "+010",
+      "type": "value",
+      "confidence": 0.5090950131416321,
+      "bbox": [
+        [
+          1505.0,
+          1191.0
+        ],
+        [
+          1539.0,
+          1191.0
+        ],
+        [
+          1539.0,
+          1205.0
+        ],
+        [
+          1505.0,
+          1205.0
+        ]
+      ],
+      "center": [
+        1522.0,
+        1198.0
+      ]
+    },
+    {
+      "id": 87,
+      "text": "DFTFRMINATCNAAS RFFN COvFI ZTFD AND APPROVFD RY RAYTHFON, AND ANY REQUIRFC U3S, GOVFRNMFNT APPROVAIS HAVF BFEN ORTAINFD,",
+      "type": "label",
+      "confidence": 0.14918126480877456,
+      "bbox": [
+        [
+          73.0,
+          1203.0
+        ],
+        [
+          781.0,
+          1203.0
+        ],
+        [
+          781.0,
+          1217.0
+        ],
+        [
+          73.0,
+          1217.0
+        ]
+      ],
+      "center": [
+        427.0,
+        1210.0
+      ]
+    },
+    {
+      "id": 88,
+      "text": "DRAWINGMLE:",
+      "type": "label",
+      "confidence": 0.33268718290505045,
+      "bbox": [
+        [
+          1601.0,
+          1205.0
+        ],
+        [
+          1695.0,
+          1205.0
+        ],
+        [
+          1695.0,
+          1219.0
+        ],
+        [
+          1601.0,
+          1219.0
+        ]
+      ],
+      "center": [
+        1648.0,
+        1212.0
+      ]
+    },
+    {
+      "id": 89,
+      "text": "vIO_ATIONS ARE SUB_LCT",
+      "type": "label",
+      "confidence": 0.46498491674034276,
+      "bbox": [
+        [
+          73.0,
+          1217.0
+        ],
+        [
+          199.0,
+          1217.0
+        ],
+        [
+          199.0,
+          1233.0
+        ],
+        [
+          73.0,
+          1233.0
+        ]
+      ],
+      "center": [
+        136.0,
+        1225.0
+      ]
+    },
+    {
+      "id": 90,
+      "text": "S_VERE CKIMINAL PENALTILS",
+      "type": "label",
+      "confidence": 0.8244188306849982,
+      "bbox": [
+        [
+          213.0,
+          1219.0
+        ],
+        [
+          353.0,
+          1219.0
+        ],
+        [
+          353.0,
+          1233.0
+        ],
+        [
+          213.0,
+          1233.0
+        ]
+      ],
+      "center": [
+        283.0,
+        1226.0
+      ]
+    },
+    {
+      "id": 91,
+      "text": "PEER",
+      "type": "label",
+      "confidence": 0.9997592568397522,
+      "bbox": [
+        [
+          1143.0,
+          1209.0
+        ],
+        [
+          1177.0,
+          1209.0
+        ],
+        [
+          1177.0,
+          1225.0
+        ],
+        [
+          1143.0,
+          1225.0
+        ]
+      ],
+      "center": [
+        1160.0,
+        1217.0
+      ]
+    },
+    {
+      "id": 92,
+      "text": "INIEREREI GLOMEIRIC",
+      "type": "label",
+      "confidence": 0.59042191116116,
+      "bbox": [
+        [
+          1449.0,
+          1215.0
+        ],
+        [
+          1563.0,
+          1215.0
+        ],
+        [
+          1563.0,
+          1229.0
+        ],
+        [
+          1449.0,
+          1229.0
+        ]
+      ],
+      "center": [
+        1506.0,
+        1222.0
+      ]
+    },
+    {
+      "id": 93,
+      "text": "IOLLRANCING PER",
+      "type": "label",
+      "confidence": 0.5560619357795336,
+      "bbox": [
+        [
+          1459.0,
+          1225.0
+        ],
+        [
+          1553.0,
+          1225.0
+        ],
+        [
+          1553.0,
+          1237.0
+        ],
+        [
+          1459.0,
+          1237.0
+        ]
+      ],
+      "center": [
+        1506.0,
+        1231.0
+      ]
+    },
+    {
+      "id": 94,
+      "text": "STUD, UPPER WING PIVOT",
+      "type": "label",
+      "confidence": 0.9440929885781152,
+      "bbox": [
+        [
+          1599.0,
+          1221.0
+        ],
+        [
+          1817.0,
+          1221.0
+        ],
+        [
+          1817.0,
+          1241.0
+        ],
+        [
+          1599.0,
+          1241.0
+        ]
+      ],
+      "center": [
+        1708.0,
+        1231.0
+      ]
+    },
+    {
+      "id": 95,
+      "text": "MFG",
+      "type": "label",
+      "confidence": 0.9985157189455204,
+      "bbox": [
+        [
+          1145.0,
+          1231.0
+        ],
+        [
+          1177.0,
+          1231.0
+        ],
+        [
+          1177.0,
+          1247.0
+        ],
+        [
+          1145.0,
+          1247.0
+        ]
+      ],
+      "center": [
+        1161.0,
+        1239.0
+      ]
+    },
+    {
+      "id": 96,
+      "text": "ASME",
+      "type": "label",
+      "confidence": 0.8682788014411926,
+      "bbox": [
+        [
+          1465.0,
+          1235.0
+        ],
+        [
+          1495.0,
+          1235.0
+        ],
+        [
+          1495.0,
+          1247.0
+        ],
+        [
+          1465.0,
+          1247.0
+        ]
+      ],
+      "center": [
+        1480.0,
+        1241.0
+      ]
+    },
+    {
+      "id": 97,
+      "text": "Yi4.5-2018",
+      "type": "label",
+      "confidence": 0.4677041140048407,
+      "bbox": [
+        [
+          1492.0,
+          1232.0
+        ],
+        [
+          1549.0,
+          1232.0
+        ],
+        [
+          1549.0,
+          1250.0
+        ],
+        [
+          1492.0,
+          1250.0
+        ]
+      ],
+      "center": [
+        1520.5,
+        1241.0
+      ]
+    },
+    {
+      "id": 98,
+      "text": "DESTRUCTICN NOTICE: FO? CLASSIFED DOCUMENTS, FOLLO# THE PROCEDURES IN DOD 5220.224, NATONAL INDUSTRIA",
+      "type": "label",
+      "confidence": 0.22739874242249125,
+      "bbox": [
+        [
+          73.0,
+          1247.0
+        ],
+        [
+          657.0,
+          1247.0
+        ],
+        [
+          657.0,
+          1261.0
+        ],
+        [
+          73.0,
+          1261.0
+        ]
+      ],
+      "center": [
+        365.0,
+        1254.0
+      ]
+    },
+    {
+      "id": 99,
+      "text": "SECURITY PROGRAY",
+      "type": "label",
+      "confidence": 0.5714313250635641,
+      "bbox": [
+        [
+          661.0,
+          1247.0
+        ],
+        [
+          765.0,
+          1247.0
+        ],
+        [
+          765.0,
+          1261.0
+        ],
+        [
+          661.0,
+          1261.0
+        ]
+      ],
+      "center": [
+        713.0,
+        1254.0
+      ]
+    },
+    {
+      "id": 100,
+      "text": "OPFRATING VANUAI",
+      "type": "label",
+      "confidence": 0.6758840331763643,
+      "bbox": [
+        [
+          73.0,
+          1263.0
+        ],
+        [
+          175.0,
+          1263.0
+        ],
+        [
+          175.0,
+          1275.0
+        ],
+        [
+          73.0,
+          1275.0
+        ]
+      ],
+      "center": [
+        124.0,
+        1269.0
+      ]
+    },
+    {
+      "id": 101,
+      "text": "NISPOMI: SFCT ON 5-735,ORDOD 3220.1-R, INFORMATION SFCURITY PROGRAM, CHAPTFR VI, FOR UNCI ASSIFIFD. IMIFD",
+      "type": "label",
+      "confidence": 0.1969131320703136,
+      "bbox": [
+        [
+          181.0,
+          1263.0
+        ],
+        [
+          767.0,
+          1263.0
+        ],
+        [
+          767.0,
+          1277.0
+        ],
+        [
+          181.0,
+          1277.0
+        ]
+      ],
+      "center": [
+        474.0,
+        1270.0
+      ]
+    },
+    {
+      "id": 102,
+      "text": "STRESS",
+      "type": "label",
+      "confidence": 0.9797820872292667,
+      "bbox": [
+        [
+          1137.0,
+          1253.0
+        ],
+        [
+          1183.0,
+          1253.0
+        ],
+        [
+          1183.0,
+          1269.0
+        ],
+        [
+          1137.0,
+          1269.0
+        ]
+      ],
+      "center": [
+        1160.0,
+        1261.0
+      ]
+    },
+    {
+      "id": 103,
+      "text": "THIRD ANGLE",
+      "type": "label",
+      "confidence": 0.9458367647857027,
+      "bbox": [
+        [
+          1425.0,
+          1263.0
+        ],
+        [
+          1515.0,
+          1263.0
+        ],
+        [
+          1515.0,
+          1281.0
+        ],
+        [
+          1425.0,
+          1281.0
+        ]
+      ],
+      "center": [
+        1470.0,
+        1272.0
+      ]
+    },
+    {
+      "id": 104,
+      "text": "DRAWING NUMBER: D5437577",
+      "type": "label",
+      "confidence": 0.7618778504946668,
+      "bbox": [
+        [
+          1601.0,
+          1261.0
+        ],
+        [
+          1795.0,
+          1261.0
+        ],
+        [
+          1795.0,
+          1277.0
+        ],
+        [
+          1601.0,
+          1277.0
+        ]
+      ],
+      "center": [
+        1698.0,
+        1269.0
+      ]
+    },
+    {
+      "id": 105,
+      "text": "REV: X23",
+      "type": "label",
+      "confidence": 0.42964293462850794,
+      "bbox": [
+        [
+          1903.0,
+          1259.0
+        ],
+        [
+          1961.0,
+          1259.0
+        ],
+        [
+          1961.0,
+          1275.0
+        ],
+        [
+          1903.0,
+          1275.0
+        ]
+      ],
+      "center": [
+        1932.0,
+        1267.0
+      ]
+    },
+    {
+      "id": 106,
+      "text": "DCCUMENTS, CESTROY BY ANY METHOD",
+      "type": "label",
+      "confidence": 0.646473922368063,
+      "bbox": [
+        [
+          73.0,
+          1277.0
+        ],
+        [
+          271.0,
+          1277.0
+        ],
+        [
+          271.0,
+          1291.0
+        ],
+        [
+          73.0,
+          1291.0
+        ]
+      ],
+      "center": [
+        172.0,
+        1284.0
+      ]
+    },
+    {
+      "id": 107,
+      "text": "A",
+      "type": "label",
+      "confidence": 0.005505586466428236,
+      "bbox": [
+        [
+          296.0,
+          1280.0
+        ],
+        [
+          318.0,
+          1280.0
+        ],
+        [
+          318.0,
+          1286.0
+        ],
+        [
+          296.0,
+          1286.0
+        ]
+      ],
+      "center": [
+        307.0,
+        1283.0
+      ]
+    },
+    {
+      "id": 108,
+      "text": "PREVENT DISCLOSURE OF CONTENTS OR RECONSTRUCTION OF THE COCUMENT;",
+      "type": "label",
+      "confidence": 0.30750683706662724,
+      "bbox": [
+        [
+          319.0,
+          1277.0
+        ],
+        [
+          703.0,
+          1277.0
+        ],
+        [
+          703.0,
+          1291.0
+        ],
+        [
+          319.0,
+          1291.0
+        ]
+      ],
+      "center": [
+        511.0,
+        1284.0
+      ]
+    },
+    {
+      "id": 109,
+      "text": "TECHNICAL",
+      "type": "label",
+      "confidence": 0.8968556913739354,
+      "bbox": [
+        [
+          1121.0,
+          1275.0
+        ],
+        [
+          1199.0,
+          1275.0
+        ],
+        [
+          1199.0,
+          1291.0
+        ],
+        [
+          1121.0,
+          1291.0
+        ]
+      ],
+      "center": [
+        1160.0,
+        1283.0
+      ]
+    },
+    {
+      "id": 110,
+      "text": "02/22/2024",
+      "type": "label",
+      "confidence": 0.9926438621454581,
+      "bbox": [
+        [
+          1319.0,
+          1275.0
+        ],
+        [
+          1395.0,
+          1275.0
+        ],
+        [
+          1395.0,
+          1291.0
+        ],
+        [
+          1319.0,
+          1291.0
+        ]
+      ],
+      "center": [
+        1357.0,
+        1283.0
+      ]
+    },
+    {
+      "id": 111,
+      "text": "PROJECTION",
+      "type": "label",
+      "confidence": 0.9822627284447276,
+      "bbox": [
+        [
+          1427.0,
+          1277.0
+        ],
+        [
+          1513.0,
+          1277.0
+        ],
+        [
+          1513.0,
+          1293.0
+        ],
+        [
+          1427.0,
+          1293.0
+        ]
+      ],
+      "center": [
+        1470.0,
+        1285.0
+      ]
+    },
+    {
+      "id": 112,
+      "text": "CACE CODE:",
+      "type": "label",
+      "confidence": 0.9796542276167693,
+      "bbox": [
+        [
+          1601.0,
+          1277.0
+        ],
+        [
+          1691.0,
+          1277.0
+        ],
+        [
+          1691.0,
+          1293.0
+        ],
+        [
+          1601.0,
+          1293.0
+        ]
+      ],
+      "center": [
+        1646.0,
+        1285.0
+      ]
+    },
+    {
+      "id": 113,
+      "text": "5090",
+      "type": "value",
+      "confidence": 0.9554190635681152,
+      "bbox": [
+        [
+          1699.0,
+          1279.0
+        ],
+        [
+          1731.0,
+          1279.0
+        ],
+        [
+          1731.0,
+          1293.0
+        ],
+        [
+          1699.0,
+          1293.0
+        ]
+      ],
+      "center": [
+        1715.0,
+        1286.0
+      ]
+    },
+    {
+      "id": 114,
+      "text": "SCALE 2I & NOIED",
+      "type": "label",
+      "confidence": 0.41308040029002513,
+      "bbox": [
+        [
+          1763.0,
+          1279.0
+        ],
+        [
+          1893.0,
+          1279.0
+        ],
+        [
+          1893.0,
+          1295.0
+        ],
+        [
+          1763.0,
+          1295.0
+        ]
+      ],
+      "center": [
+        1828.0,
+        1287.0
+      ]
+    },
+    {
+      "id": 115,
+      "text": "SHEET",
+      "type": "label",
+      "confidence": 0.9941023278676745,
+      "bbox": [
+        [
+          1901.0,
+          1279.0
+        ],
+        [
+          1943.0,
+          1279.0
+        ],
+        [
+          1943.0,
+          1293.0
+        ],
+        [
+          1901.0,
+          1293.0
+        ]
+      ],
+      "center": [
+        1922.0,
+        1286.0
+      ]
+    },
+    {
+      "id": 116,
+      "text": "OF 3",
+      "type": "label",
+      "confidence": 0.622962660351399,
+      "bbox": [
+        [
+          1953.0,
+          1279.0
+        ],
+        [
+          1985.0,
+          1279.0
+        ],
+        [
+          1985.0,
+          1293.0
+        ],
+        [
+          1953.0,
+          1293.0
+        ]
+      ],
+      "center": [
+        1969.0,
+        1286.0
+      ]
+    },
+    {
+      "id": 117,
+      "text": "TFAT",
+      "type": "label",
+      "confidence": 0.2766965925693512,
+      "bbox": [
+        [
+          269.3273272060037,
+          1276.260059926604
+        ],
+        [
+          294.9723873019805,
+          1279.7666270475247
+        ],
+        [
+          293.6726727939963,
+          1288.739940073396
+        ],
+        [
+          268.0276126980195,
+          1286.2333729524753
+        ]
+      ],
+      "center": [
+        281.5,
+        1282.5
+      ]
+    }
+  ]
+}

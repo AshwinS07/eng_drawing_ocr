@@ -1,0 +1,361 @@
+{
+  "image": "/Users/ashwinsathishkumar/Downloads/eng_drawing_ocr/dataset/test.jpeg",
+  "statistics": {
+    "total_text": 38,
+    "labels": 24,
+    "values": 14,
+    "pairs": 24
+  },
+  "pairs": [
+    {
+      "label": "Wall Thickness",
+      "value": null,
+      "confidence": 0.739683444451583
+    },
+    {
+      "label": "Perpendicularity:|",
+      "value": "10",
+      "confidence": 0.9056171999842668
+    },
+    {
+      "label": "A",
+      "value": "0.01",
+      "confidence": 0.9926258524819241
+    },
+    {
+      "label": "Od Chamfer",
+      "value": null,
+      "confidence": 0.8743222231219586
+    },
+    {
+      "label": "0.Sx45o",
+      "value": null,
+      "confidence": 0.7666221868124221
+    },
+    {
+      "label": "Length",
+      "value": "33",
+      "confidence": 0.9997778241015777
+    },
+    {
+      "label": "A",
+      "value": "33",
+      "confidence": 0.9999058073684105
+    },
+    {
+      "label": "CD Length",
+      "value": null,
+      "confidence": 0.7167901654396311
+    },
+    {
+      "label": "CD Length",
+      "value": null,
+      "confidence": 0.902874045518313
+    },
+    {
+      "label": "Od Chamfer",
+      "value": null,
+      "confidence": 0.8656596054019731
+    },
+    {
+      "label": "1.Sx309",
+      "value": null,
+      "confidence": 0.3403166064055273
+    },
+    {
+      "label": "L.6_",
+      "value": null,
+      "confidence": 0.5395891214910233
+    },
+    {
+      "label": "Id Chamfer",
+      "value": null,
+      "confidence": 0.6982223919731221
+    },
+    {
+      "label": "0.Sx45o",
+      "value": null,
+      "confidence": 0.7529931505905079
+    },
+    {
+      "label": "Id Chamfer",
+      "value": "15x30",
+      "confidence": 0.8914380210714967
+    },
+    {
+      "label": "ID : $ 32 +0.01",
+      "value": "+0.03",
+      "confidence": 0.768516116472081
+    },
+    {
+      "label": "od",
+      "value": "40 -0.03",
+      "confidence": 0.8652139390447844
+    },
+    {
+      "label": "Drill Hole",
+      "value": null,
+      "confidence": 0.8526398818330297
+    },
+    {
+      "label": "12 (3No's)",
+      "value": null,
+      "confidence": 0.8044850405524658
+    },
+    {
+      "label": "Length",
+      "value": "86",
+      "confidence": 0.9997752833070348
+    },
+    {
+      "label": "IConcentricity",
+      "value": "0.03",
+      "confidence": 0.7243669196142122
+    },
+    {
+      "label": "A",
+      "value": null,
+      "confidence": 0.9969103396417864
+    },
+    {
+      "label": "Total Length",
+      "value": "93",
+      "confidence": 0.786855568625439
+    },
+    {
+      "label": "Step",
+      "value": "-0.01",
+      "confidence": 0.9915550654057562
+    }
+  ],
+  "all_text": [
+    {
+      "id": 0,
+      "text": "Wall Thickness",
+      "type": "label",
+      "confidence": 0.739683444451583
+    },
+    {
+      "id": 1,
+      "text": "Perpendicularity:|",
+      "type": "label",
+      "confidence": 0.8112441780233864
+    },
+    {
+      "id": 2,
+      "text": "0.01",
+      "type": "value",
+      "confidence": 0.9857498185401437
+    },
+    {
+      "id": 3,
+      "text": "A",
+      "type": "label",
+      "confidence": 0.9995018864237046
+    },
+    {
+      "id": 4,
+      "text": "Od Chamfer",
+      "type": "label",
+      "confidence": 0.8743222231219586
+    },
+    {
+      "id": 5,
+      "text": "0.Sx45o",
+      "type": "label",
+      "confidence": 0.7666221868124221
+    },
+    {
+      "id": 6,
+      "text": "Length",
+      "type": "label",
+      "confidence": 0.9995556482031553
+    },
+    {
+      "id": 7,
+      "text": "10",
+      "type": "value",
+      "confidence": 0.9999902219451473
+    },
+    {
+      "id": 8,
+      "text": "A",
+      "type": "label",
+      "confidence": 0.9998123733800099
+    },
+    {
+      "id": 9,
+      "text": "CD Length",
+      "type": "label",
+      "confidence": 0.7167901654396311
+    },
+    {
+      "id": 10,
+      "text": "33",
+      "type": "value",
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "CD Length",
+      "type": "label",
+      "confidence": 0.902874045518313
+    },
+    {
+      "id": 12,
+      "text": "33",
+      "type": "value",
+      "confidence": 0.9999992413568111
+    },
+    {
+      "id": 13,
+      "text": "Od Chamfer",
+      "type": "label",
+      "confidence": 0.8656596054019731
+    },
+    {
+      "id": 14,
+      "text": "1.Sx309",
+      "type": "label",
+      "confidence": 0.3403166064055273
+    },
+    {
+      "id": 15,
+      "text": "L.6_",
+      "type": "label",
+      "confidence": 0.5395891214910233
+    },
+    {
+      "id": 16,
+      "text": "Id Chamfer",
+      "type": "label",
+      "confidence": 0.6982223919731221
+    },
+    {
+      "id": 17,
+      "text": "0.Sx45o",
+      "type": "label",
+      "confidence": 0.7529931505905079
+    },
+    {
+      "id": 18,
+      "text": "Id Chamfer",
+      "type": "label",
+      "confidence": 0.7978239552121891
+    },
+    {
+      "id": 19,
+      "text": "15x30",
+      "type": "value",
+      "confidence": 0.9850520869308043
+    },
+    {
+      "id": 20,
+      "text": "?",
+      "type": "value",
+      "confidence": 0.04392662637573963
+    },
+    {
+      "id": 21,
+      "text": "+0.03",
+      "type": "value",
+      "confidence": 0.9875569870681087
+    },
+    {
+      "id": 22,
+      "text": "3",
+      "type": "value",
+      "confidence": 0.27358143787958866
+    },
+    {
+      "id": 23,
+      "text": "ID : $ 32 +0.01",
+      "type": "label",
+      "confidence": 0.5494752458760532
+    },
+    {
+      "id": 24,
+      "text": "-0.01",
+      "type": "value",
+      "confidence": 0.9831663975961804
+    },
+    {
+      "id": 25,
+      "text": "od",
+      "type": "label",
+      "confidence": 0.9757304257610672
+    },
+    {
+      "id": 26,
+      "text": "40 -0.03",
+      "type": "value",
+      "confidence": 0.7546974523285015
+    },
+    {
+      "id": 27,
+      "text": "1",
+      "type": "value",
+      "confidence": 0.37163578730547897
+    },
+    {
+      "id": 28,
+      "text": "Drill Hole",
+      "type": "label",
+      "confidence": 0.8526398818330297
+    },
+    {
+      "id": 29,
+      "text": "12 (3No's)",
+      "type": "label",
+      "confidence": 0.8044850405524658
+    },
+    {
+      "id": 30,
+      "text": "Length",
+      "type": "label",
+      "confidence": 0.9995579844513492
+    },
+    {
+      "id": 31,
+      "text": "86",
+      "type": "value",
+      "confidence": 0.9999925821627202
+    },
+    {
+      "id": 32,
+      "text": "IConcentricity",
+      "type": "label",
+      "confidence": 0.44873813076284824
+    },
+    {
+      "id": 33,
+      "text": "0.03",
+      "type": "value",
+      "confidence": 0.9999957084655762
+    },
+    {
+      "id": 34,
+      "text": "A",
+      "type": "label",
+      "confidence": 0.9969103396417864
+    },
+    {
+      "id": 35,
+      "text": "Total Length",
+      "type": "label",
+      "confidence": 0.5737194823166848
+    },
+    {
+      "id": 36,
+      "text": "93",
+      "type": "value",
+      "confidence": 0.9999916549341934
+    },
+    {
+      "id": 37,
+      "text": "Step",
+      "type": "label",
+      "confidence": 0.999943733215332
+    }
+  ]
+}

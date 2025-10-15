@@ -1,0 +1,40 @@
+project:
+  name: eng-drawing-ocr
+
+io:
+  save_viz: true
+  save_json: true
+  save_csv: true
+  dpi: 300
+
+preprocess:
+  grayscale: true
+  denoise_bilateral: true
+  adapt_thresh: true
+  deskew: true
+
+ocr:
+  backend: easyocr
+  lang: ['en']
+  min_conf: 0.3  
+
+symbols:
+  enable: true
+  model_path: "models/symbols.pt"   
+  conf: 0.25                        
+
+arrow:
+  use_hough_fallback: true
+  hough:
+    canny_thresh1: 50
+    canny_thresh2: 150
+    min_line_length: 30
+    max_line_gap: 10
+
+
+layout:
+  table:
+    enable: false
+
+export:
+  json_indent: 2
