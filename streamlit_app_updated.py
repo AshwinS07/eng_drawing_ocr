@@ -1,5 +1,4 @@
-import imghdr  # ✅ Fix for Python 3.12+ Streamlit image issue
-
+import imghdr  # Fix for Python 3.12+ Streamlit image issue
 
 import logging
 import os
@@ -13,7 +12,6 @@ import cv2
 import numpy as np
 from PIL import Image, UnidentifiedImageError
 import sys
-import os
 import json
 from io import BytesIO
 import pandas as pd
@@ -112,7 +110,7 @@ def main():
             try:
                 # Display original image
                 image = Image.open(uploaded_file)
-                st.image(image, caption="Original Image", use_container_width=True)
+                st.image(image, caption="Original Image", use_column_width=True)
             except UnidentifiedImageError:
                 st.error("❌ Unable to open the uploaded file. Please upload a valid image (jpg, png, bmp, tiff).")
                 return
@@ -158,7 +156,7 @@ def main():
                 results
             )
             vis_image_rgb = cv2.cvtColor(vis_image, cv2.COLOR_BGR2RGB)
-            st.image(vis_image_rgb, caption="Detected Text", use_container_width=True)
+            st.image(vis_image_rgb, caption="Detected Text", use_column_width=True)
 
             # Tabs for different views
             tab1, tab2, tab3, tab4 = st.tabs([
