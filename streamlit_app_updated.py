@@ -213,7 +213,7 @@ def main():
                         }
                         for item in filtered_text
                     ])
-                    st.dataframe(text_df, use_container_width=True, hide_index=True)
+                    st.dataframe(text_df)
                 else:
                     st.info("No text found above confidence threshold")
 
