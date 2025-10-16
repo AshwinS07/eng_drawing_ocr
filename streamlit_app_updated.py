@@ -181,7 +181,8 @@ def main():
                         }
                         for p in filtered_pairs
                     ])
-                    st.dataframe(pairs_df, use_container_width=True, hide_index=True)
+                    st.dataframe(pairs_df, hide_index=True)
+
 
                     # Download as CSV
                     csv = pairs_df.to_csv(index=False)
