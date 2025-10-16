@@ -2,7 +2,22 @@
 Streamlit app for engineering drawing OCR
 Run with: streamlit run streamlit_app_updated.py
 """
+# If imghdr is missing, create a minimal replacement
+if 'imghdr' not in sys.modules:
+    import types
+    imghdr = types.ModuleType("imghdr")
 
+    def what(file, h=None):
+        if isinstance(file, (str, bytes)):
+            kind = mimetypes.guess_type(file)[0]
+            if kind and kind.startswith("image/"):
+                return kind.split("/")[1]
+        return None
+
+    imghdr.what = what
+    sys.modules['imghdr'] = imghdr
+
+    
 import streamlit as st
 import cv2
 import numpy as np
@@ -16,6 +31,7 @@ import pandas as pd
 # Add src to path
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
 sys.path.insert(0, os.path.dirname(__file__))
+
 from src.recognition.text_recognizer import TextRecognizer
 
 # Page config
