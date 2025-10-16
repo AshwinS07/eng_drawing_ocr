@@ -1,5 +1,13 @@
 import imghdr  # ✅ Fix for Python 3.12+ Streamlit image issue
 
+
+import logging
+import os
+
+# Suppress PyTorch warnings on Streamlit Cloud
+os.environ["TORCH_CPP_LOG_LEVEL"] = "ERROR"
+logging.getLogger("torch").setLevel(logging.ERROR)
+
 import streamlit as st
 import cv2
 import numpy as np
